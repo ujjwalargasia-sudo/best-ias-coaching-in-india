@@ -5,7 +5,7 @@
 ## Courses
 - Offline & Online Classes
 - Hybrid & Weekend Batches 
-- Pen Drive Courses
+- Pen Drive Courses 
 
 ## Features
 - Experienced faculty across subjects
