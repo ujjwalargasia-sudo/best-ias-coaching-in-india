@@ -4,7 +4,7 @@
 
 ## Courses
 - Offline & Online Classes
-- Hybrid & Weekend Batches 
+- Hybrid & Weekend Batches  
 - Pen Drive Courses 
 
 ## Features
