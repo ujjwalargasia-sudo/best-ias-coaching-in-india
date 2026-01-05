@@ -1,6 +1,6 @@
-# Plutus IAS – Best IAS Coaching in India 2026
+# Plutus IAS – Best IAS Coaching in India 2026 
 
-**Plutus IAS** is a leading UPSC coaching institute known for expert faculty, personalized mentorship, and consistent top rankers. It offers courses for Prelims, Mains, Optional Subjects, and CSATs
+**Plutus IAS** is a leading UPSC coaching institute known for expert faculty, personalized mentorship, and consistent top rankers. It offers courses for Prelims, Mains, Optional Subjects, and CSATS
 
 ## Courses
 - Offline & Online Classes
